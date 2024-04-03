@@ -1,6 +1,6 @@
 # Chapter 06 - Arrays Programming Logic in C 💻
 
-.. Exercises from Fundamentals of Computer Programming [PT-BR] | C/C++ PASCAL JAVA
+41 Exercises from Fundamentals of Computer Programming [PT-BR] | C/C++ PASCAL JAVA
 
 ## content 🗂
 
